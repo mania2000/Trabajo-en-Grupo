@@ -1,0 +1,56 @@
+.navbar{
+    padding-left: 47%;
+    background-color: rgba(199, 194, 194, 0);
+    border-radius: 30px;
+    border :solid rgb(8, 8, 8) 5px;
+    
+}
+
+.texto{
+    color: rgb(38, 10, 197);
+}
+
+button{
+    color: rgb(10, 10, 27);
+    font-style: oblique;
+    background-color: rgb(12, 148, 148);
+    border-radius: 20px;
+    }
+
+    .end{
+        text-align: end;
+
+    }
+
+    .centrado{
+        text-align: center;
+
+    }
+
+    .logo{
+        width: 30px;
+        height: 30px;
+        background-image: url(/img/login.jpg);
+        position: relative;
+        align-items: center;
+
+    }
+    .img{
+        width: 100px;
+        height: 100px;
+    }
+    .logo{
+        width: 100px;
+        height:100px;
+    }
+    .img1{
+        width: 500px;
+        height: 500px;
+    }
+    
+    .texto{
+
+        text-align: justify;
+    }
+    
+ 
