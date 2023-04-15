@@ -1,7 +1,7 @@
 .navbar{
-    padding-left: 47%;
+    padding-left: 40%;
     background-color: rgba(199, 194, 194, 0);
-    border-radius: 30px;
+    border-radius: 60px;
     border :solid rgb(8, 8, 8) 5px;
     
 }
@@ -9,18 +9,23 @@
 .texto{
     color: rgb(38, 10, 197);
 }
+.texto1{
+    color: rgb(247, 247, 247);
+}
 
 button{
-    color: rgb(10, 10, 27);
+    color: rgb(0, 1, 12);
     font-style: oblique;
-    background-color: rgb(12, 148, 148);
-    border-radius: 20px;
+    background-color: rgb(211, 199, 94);
+    border-radius: 50px;
     }
 
     .end{
         text-align: end;
 
     }
+
+    
 
     .centrado{
         text-align: center;
@@ -44,13 +49,44 @@ button{
         height:100px;
     }
     .img1{
-        width: 500px;
-        height: 500px;
+        width: 100px;
+        height:30px;
     }
     
     .texto{
-
+        justify-content: center;
         text-align: justify;
     }
     
+ .menu{
+
+    margin-left: 50%;
+
+ }
+
+ .img2 {
+    width: 300px;
+    height:300px;
+
+ }
+ .menu1{
+
+    margin-left: 40%;
+
+ }
+ .img3 {
+    width: 10px;
+    height:10px;
+
+ }
+
+ .container{
+    position: relative;
+    width: 100%;
+    min-height: 100%;
+    background-image: url(/img/pexels-max-deroin-51415\ -\ copia.jpg);
+    background-size: cover;
+    
+}
+
  
